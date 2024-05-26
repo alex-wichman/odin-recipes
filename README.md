@@ -1,1 +1,1 @@
-# odin-recipes
+In this project I learned about the fundamentals of Html. I made reference links to multiple pages and added images. I linked the images by adding them into the repository, then linking to them. Instead of linking directly to images on the web.
